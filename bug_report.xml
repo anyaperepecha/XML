@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+  <xml>
+    <ID>UF_53</ID>
+    <Build>2.0</Build>
+    <Priority>Normal</Priority>
+    <Severity>Major</Severity>
+    <Title>The e-mail input field for the "leave a review" form is unavailable</Title>
+    <Steps to reproduce>
+        <1.>Go to the "about the company" page on the website http://www.etotest.tu/about-us</1.>
+        <2.>Open the "leave a review" form</2.>
+        <3.>Move the cursor to the E-mail field</3.>
+    </Steps to reproduce>
+    <Expected result>The "e-mail" field is available for entering characters. The cursor appears.</Expected result>
+    <Actual result>The "e-mail" field is not available for entering characters. The cursor does not appear.</Actual result>
+ </xml>
