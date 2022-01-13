@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
      <xml>
-	     <favorite_movie>Legend</favorite_movie>
-	     <favorite_serial>Method</favorite_serial>
-	     <favorite_food>sushi</favorite_food>
+             <favorite_movie>Legend</favorite_movie>
+             <favorite_serial>Method</favorite_serial>
+             <favorite_food>sushi</favorite_food>
              <favorite_season>spring</favorite_season>
-	     <country_i_would_like_to_visit>Italy</country_i_would_like_to_visit>  
+             <country_i_would_like_to_visit>Italy</country_i_would_like_to_visit>
      </xml>
-
-
